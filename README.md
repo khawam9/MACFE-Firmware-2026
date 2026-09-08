@@ -36,5 +36,5 @@ output\HelloWorld.exe
 (On Linux/Mac: ./output/HelloWorld.exe)
 
 ## Notes
-Make sure the source file has a '.cpp' extension — g++ won't recognize it as source code otherwise.
-If 'g++' isn't found, confirm MinGW's bin folder is on your system 'PATH', or call it via its full path as shown above.
+Make sure the source file has a `.cpp` extension — g++ won't recognize it as source code otherwise.
+If `g++` isn't found, confirm MinGW's bin folder is on your system 'PATH', or call it via its full path as shown above.
