@@ -5,15 +5,15 @@ A simple C++ "Hello World" program.
 ## Prerequisites
 
 -**Compiler:** g++ (MinGW), tested with the MinGW toolchain at C:\MinGW\bin\g++.exe
-- **OS:** Windows (adjust paths for Linux/Mac if needed)
+-**OS:** Windows (adjust paths for Linux/Mac if needed)
 
 ## Project Structure
-
+```
 HelloWorld/
 ├── HelloWorld.cpp     # source file
 ├── output/             # compiled binaries go here
 └── README.md
-
+```
 ## Build
 
 From the project root, compile with:
