@@ -18,9 +18,9 @@ HelloWorld/
 
 From the project root, compile with:
 
-'''bash
+```bash
 g++ -Wall -Wextra -g3 HelloWorld.cpp -o output/HelloWorld.exe 
-'''
+```
 
 Flags:
 
@@ -29,9 +29,9 @@ Flags:
 
 ## Run
 
-'''bash
+```bash
 output\HelloWorld.exe
-'''
+```
 
 (On Linux/Mac: ./output/HelloWorld.exe)
 
